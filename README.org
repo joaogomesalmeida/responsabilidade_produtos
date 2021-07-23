@@ -1,0 +1,5 @@
+#+TITLE: Projeto: artigo "A lei aplicável à responsabilidade do produtor"
+
+Repositório para artigo.
+
+Data de entrega: 30 de outubro de 2021.

@@ -1,1 +1,0 @@
-# responsabilidade_produtos
