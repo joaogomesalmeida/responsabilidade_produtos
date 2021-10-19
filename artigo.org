@@ -1,8 +1,16 @@
-#+TITLE: A lei aplicável à responsabilidade do produtor
+#+TITLE: Regulamento Roma II: a lei aplicável à responsabilidade extracontratual do produtor
 #+AUTHOR: João Gomes de Almeida
 
-* Introdução
-* Contexto histórico (a situação antes do Roma II e o processo legislativo)
+* Introdução e delimitação do tema do estudo
+
+A sociedade moderna é uma sociedade global. Os processos de conceção, produção, distribuição, comercialização e aquisição de produtos não se encontram, necessariamente, confinados ao território de um Estado. Todos nós adquirimos e utilizamos produtos que foram concebidos e produzidos em Estados diferentes daquele em que o adquirimos. Os meios de comunicação à distância, em particular a /Internet/, facilitam a aquisição de produtos comercializados em Estados diferentes do da residência habitual do adquirente. A sociedade moderna pauta-se também por uma facilidade (mitigada nos últimos anos pela pandemia que vivemos) sem precedentes de deslocação de pessoas além fronteiras. Não é, por isso, invulgar que um produto seja adquirido num Estado e deslocado para outro.
+
+Assim, os casos de responsabilidade do produtor por danos causados por um produto têm, muitas vezes, pontos de contacto relevantes com mais de um Estado e suscitam os problemas específicos de determinação do tribunal internacionalmente competente, da lei aplicável e do reconhecimento de decisões estrangeiras. O presente estudo foca-se determinação da lei aplicável, em concreto na determinação da lei reguladora da obrigação extracontratual do produtor, adotando a perspetiva da ordem jurídica portuguesa.
+
+Inicia-se com um breve contexto histórico, onde se dará conta, em traços gerais, da solução que vigorou na ordem jurídica portuguesa e do processo legislativo do Regulamento Roma II, onde se encontram hoje consagradas as normas de conflitos que determinam a lei aplicável à responsabilidade extracontratual do produtor por danos causados por produtos. De seguida, atende-se aos valores prosseguidos e, em traços gerais, às conexões adotadas, procurando dar-se uma panorâmica de como elas se coordenam. Procede-se, depois, a análise de cada uma dessas conexões, após o que se apresentam as nossas conclusões.
+
+* Breve contexto histórico (a situação antes do Roma II e o processo legislativo)
+
 * Conexão primária: autonomia privada
 * Conexão subsidiária
 ** Residência habitual comum (art. 4.º/2)
