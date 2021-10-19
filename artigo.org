@@ -11,6 +11,8 @@ Inicia-se com um breve contexto histórico, onde se dará conta, em traços gera
 
 * Breve contexto histórico (a situação antes do Roma II e o processo legislativo)
 
+Antes do Regulamento Roma II, a Conferência da Haia aprovou a Convenção da Haia de 1973 sobre a Lei Aplicável à Responsabilidade Decorrente de Produtos. Esta Convenção entrou internacionalmente em vigor em 1 de outubro de 1977, mas não pode considerar-se um sucesso, uma vez que, em outubro de 2021, é aplicável apenas em 8 Estados Contratantes[fn:1]. A razão para um tão escasso número de Estados Contratantes parece encontrar-se na elevada complexidade da solução conflitual que adotou[Cf., por exemplo, @graziano2005, p. 480; @pinheiro2015, p. 489; contra, considerando duvidoso que uma regra simples consiga atender aos interesses envolvidos nesta matéria, @fawcett1993, pp. 154-155]. Segundo a Convenção, a lei reguladora da responsabilidade decorrente de produtos é: /(i)/ a lei do Estado da residência habitual do lesado se esse Estado for também o do estabelecimento principal do alegado agente /ou/ o o do lugar onde o produto foi adquirido pelo lesado (artigo 5.º); na falta desta, /(ii)/ a lei do Estado do lugar onde ocorreu o dano direto se esse Estado for também o da residência habitual do lesado, o do estabelecimento principal do alegado agente /ou/ o o do lugar onde o produto foi adquirido pelo lesado (artigo 4.º); na falta desta, /(iii)/ a lei do Estado estabelecimento principal do alegado agente ou do lugar onde ocorreu o dano direto, consoante a escolha do lesado (artigo 6.º); contudo, /(iv)/ será aplicável a lei do Estado do estabelecimento principal do alegado agente se este demonstrar que não podia razoavelmente prever que o produto ou os seus produtos do mesmo tipo seriam disponibilizados nos Estados da residência habitual do lesado ou do lugar onde ocorreu o dano direto.
+
 * Conexão primária: autonomia privada
 * Conexão subsidiária
 ** Residência habitual comum (art. 4.º/2)
@@ -18,3 +20,7 @@ Inicia-se com um breve contexto histórico, onde se dará conta, em traços gera
 ** A cláusula de exceção (art. 5.º/2)
 * A relevância de normas de aplicação imediata (art. 16.º)
 * Conclusões
+
+* Footnotes
+
+[fn:1] A saber, Croácia, Eslóvenia, Espanha, Finlândia, França, Macedónia do Norte, Montenegro, Países Baixos e Sérvia.
