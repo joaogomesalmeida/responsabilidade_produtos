@@ -27,7 +27,7 @@ Em suma, a Comissão Europeia defendeu, na sua Proposta, a consagração de uma 
 
 O Parlamento Europeu, em primeira leitura[fn:8], recomendou a eliminação da norma conflitos especial sobre responsabilidade decorrente de produtos. A lei aplicável seria assim determinada pelas normas de conflitos gerais. O Parlamento Europeu recomendou igualmente o aditamento de vários critérios à cláusula de exceção, bastante vagos e aparentemente inspirados no /Restatement (Second) of the Conflict of Laws/ do /American Law Institute/[Cf., neste sentido,  @illmer2009, p. 277; @illmer2011, 115.].
 
-
+A Comissão Europeia, em 21 de fevereiro de 2006, apresentou a sua Proposta alterada de Regulamento do Parlamento Europeu e do Conselho sobre a Lei Aplicável às Obrigações Extracontratuais ("Roma II")[fn:9]. Na sua Proposta alterada, a Comissão Europeia esclarece que não aceita as recomendações do Parlamento Europeu relativas à eliminação da norma de conflitos em matéria de responsabilidade decorrente de produtos e à redação da cláusula de exceção. Quanto a esta última, considera que a recomendação "traduzir-se-ia numa alteração substancial do espírito do instrumento" e que a redação proposta "pode transmitir uma mensagem que contraria o objetivo de previsibilidade prosseguido pelo regulamento"[fn:10]. A Comissão Europeia recusa a eliminação da norma de conflitos especial em matéria de responsabilidade decorrente de produtos por entender que a regra geral (/lex damni/) não permite prever a lei aplicável com razoável certeza, sendo, muitas vezes, fortuito o local do dano[fn:11]. A Comissão Europeia mantém a sua proposta de norma de conflitos especial em matéria de responsabilidade decorrente de produtos, com pequenos ajustes de redação[fn:12].
 
 
 
@@ -40,6 +40,14 @@ O Parlamento Europeu, em primeira leitura[fn:8], recomendou a eliminação da no
 * Conclusões
 
 * Footnotes
+[fn:12] O artigo 6.º da Proposta alterada estabelecia: "Sem prejuízo do disposto nos nºs 2 e 3 do artigo +3º+ *_5º_*, a lei aplicável à obrigação extracontratual em caso de dano +ou risco de dano+ causado por um produto defeituoso é a lei do país em que a pessoa lesada tem a sua residência habitual, *_no momento da ocorrência do dano_*, salvo se a pessoa cuja responsabilidade é invocada provar que o produto foi comercializado neste país sem o seu consentimento, sendo então aplicável a lei do país em que a pessoa cuja responsabilidade é invocada tem a sua residência habitual." (destaques no original)
+
+[fn:11] Cf. exposição de motivos da Proposta alterada, p. 6.
+
+[fn:10] Cf. exposição de motivos da Proposta alterada, p. 4.
+
+[fn:9] COM(2006) 83 final. Doravante Proposta alterada.
+
 [fn:8] P6_TA(2005)0284.
 
 [fn:7] O artigo 4.º da Proposta estabelecia: "Sem prejuízo do disposto nos nºs 2 e 3 do artigo 3º, a lei aplicável à obrigação extracontratual em caso de dano ou risco de dano causado por um produto defeituoso é a lei do país em que a pessoa lesada tem a sua residência habitual, salvo se a pessoa cuja responsabilidade é invocada provar que o produto foi comercializado neste país sem o seu consentimento, sendo então aplicável a lei do país em que a pessoa cuja responsabilidade é invocada tem a sua residência habitual."
