@@ -29,6 +29,8 @@ O Parlamento Europeu, em primeira leitura[fn:8], recomendou a eliminação da no
 
 A Comissão Europeia, em 21 de fevereiro de 2006, apresentou a sua Proposta alterada de Regulamento do Parlamento Europeu e do Conselho sobre a Lei Aplicável às Obrigações Extracontratuais ("Roma II")[fn:9]. Na sua Proposta alterada, a Comissão Europeia esclarece que não aceita as recomendações do Parlamento Europeu relativas à eliminação da norma de conflitos em matéria de responsabilidade decorrente de produtos e à redação da cláusula de exceção. Quanto a esta última, considera que a recomendação "traduzir-se-ia numa alteração substancial do espírito do instrumento" e que a redação proposta "pode transmitir uma mensagem que contraria o objetivo de previsibilidade prosseguido pelo regulamento"[fn:10]. A Comissão Europeia recusa a eliminação da norma de conflitos especial em matéria de responsabilidade decorrente de produtos por entender que a regra geral (/lex damni/) não permite prever a lei aplicável com razoável certeza, sendo, muitas vezes, fortuito o local do dano[fn:11]. A Comissão Europeia mantém a sua proposta de norma de conflitos especial em matéria de responsabilidade decorrente de produtos, com pequenos ajustes de redação[fn:12].
 
+O Conselho, em 25 de setembro de 2006, adotou uma posição comum[fn:13]. O Conselho rejeitou a eliminação da norma de conflitos especial em matéria de responsabilidade decorrente de produtos, considerando que "a aplicação de regras gerais nos casos de responsabilidade por produtos defeituosos não permite prever a lei aplicável com uma certeza razoável", e a alteração proposta à cláusula de exceção por considerar "desnecessário fazer uma lista de factores específicos"[fn:14]. O Conselho rejeitou igualmente a solução conflitual proposta pela Comissão Europeia. Manteve a norma de conflitos especial, que atende à lei da residência habitual comum de agente e lesado e à cláusula de exceção, mas consagrou "um sistema em cascata de factores de conexão, associado a uma cláusula de previsibilidade"[fn:15].
+
 
 
 * Conexão primária: autonomia privada
@@ -40,6 +42,14 @@ A Comissão Europeia, em 21 de fevereiro de 2006, apresentou a sua Proposta alte
 * Conclusões
 
 * Footnotes
+
+[fn:15] /Idem/.
+
+[fn:14] Cf. Posição Comum, nota justificativa do Conselho, p. 79.
+
+[fn:13]  Posição Comum (CE) N.º 22/2006, adoptada pelo Conselho em 25 de Setembro de 2006, tendo em vista a adopção do Regulamento (CE) n.º …/… do Parlamento Europeu e do Conselho, de …, relativo à lei aplicável às obrigações extracontratuais («ROMA II»), publicada no JO C 289E de 28 de novembro de 2006, pp. 68—83 (doravante Posição Comum).
+
+(2006/C 289 E/04)
 [fn:12] O artigo 6.º da Proposta alterada estabelecia: "Sem prejuízo do disposto nos nºs 2 e 3 do artigo +3º+ *_5º_*, a lei aplicável à obrigação extracontratual em caso de dano +ou risco de dano+ causado por um produto defeituoso é a lei do país em que a pessoa lesada tem a sua residência habitual, *_no momento da ocorrência do dano_*, salvo se a pessoa cuja responsabilidade é invocada provar que o produto foi comercializado neste país sem o seu consentimento, sendo então aplicável a lei do país em que a pessoa cuja responsabilidade é invocada tem a sua residência habitual." (destaques no original)
 
 [fn:11] Cf. exposição de motivos da Proposta alterada, p. 6.
