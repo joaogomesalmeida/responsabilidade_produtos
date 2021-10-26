@@ -45,7 +45,15 @@ O objetivo da justa ponderação de interesses é acentuado como objetivo espec�
 A regra de conflito de leis em matéria de responsabilidade por produtos defeituosos deverá responder aos objectivos que consistem na *justa repartição* dos riscos inerentes a uma sociedade moderna de alta tecnologia, na protecção da saúde dos consumidores, na promoção da inovação, na garantia de uma concorrência não falseada e na facilitação das trocas comerciais. A criação de um sistema em cascata de factores de conexão, acompanhada de uma cláusula de previsibilidade, constitui uma solução equilibrada em relação a estes objectivos. O primeiro aspecto a ter em conta é a lei do país onde o lesado tenha a sua residência habitual, no momento em que tenha ocorrido o dano, se o produto tiver sido comercializado nesse país. Os outros elementos da cascata são desencadeados se o produto não tiver sido comercializado nesse país, sem prejuízo do n.º 2 do artigo 4.º e da possibilidade de uma conexão manifestamente mais estreita com outro país[fn:22].
 #+end_quote
 
-No essencial, a norma de conflitos especial em matéria de responsabilidade decorrente de produtos visa designar uma lei que constitua um justo equilíbrio entre os interesses do lesado e do agente[fn:23], bem como acautelar objetivos mais gerais da União Europeia, como a saúde dos consumidores, a promoção da inovação e a salvaguarda da concorrência[Cf., neste sentido, @illmer2009, p. 281; @illmer2011, p. 116; @pinheiro2015, p. 488; @magnus2019, p. 214; @risso2019, p. 215 e ss..].
+No essencial, a norma de conflitos especial em matéria de responsabilidade decorrente de produtos visa designar uma lei que constitua um justo equilíbrio entre os interesses do lesado e do agente[fn:23], e assim acautelar objetivos mais gerais da União Europeia, como a saúde dos consumidores, a promoção da inovação e a salvaguarda da concorrência[Cf., neste sentido, @illmer2009, p. 281; @illmer2011, p. 116; @pinheiro2015, p. 488; @magnus2019, p. 214; @risso2019, p. 215 e ss..].
+
+A solução conflitual em matéria de responsabilidade decorrente de produtos consagrada no Regulamento Roma II adota, como conexão primária, a escolha de lei pelas partes (art. 14.º). Na falta de escolha de lei, a norma de conflitos subsidiária especial (art. 5.º) manda aplicar a lei da Estado da residência habitual comum do lesado e agente[fn:24]; na falta de residência habitual comum, determina-se a lei reguladora da responsabilidade decorrente de produtos recorrendo a três conexões cumulativas sucessivas ou subsidiárias, sujeitas a uma cláusula de previsibilidade. Será assim aplicável a lei do Estado da residência habitual do lesado, da aquisição do produto ou da ocorrência do dano, desde que seja /simultaneamente/ a lei do Estado da comercialização do produto /e/ fosse razoavelmente previsível ao agente a comercialização do produto, ou de um produto do mesmo tipo, nesse Estado. Nos casos em que a opere a cláusula de previsibilidade e nos casos em que produto não seja comercializado nos Estados da residência habitual do lesado, da aquisição do produto e da ocorrência do dano, será aplicável a lei do Estado da residência habitual do agente[fn:25]. Por fim, todas as conexões, com exceção da escolha de lei pelas partes, estão sujeitas a uma cláusula de exceção.
+
+A solução conflitual, sumariamente descrita, consagra sete conexões diferentes, a saber: /(i)/ lei do Estado escolhida pelas partes; /(ii)/ lei do Estado da residência habitual comum de lesado e agente; /(iii)/ lei do Estado da residência habitual do lesado e da comercialização do produto; /(iv)/ lei do Estado da aquisição e comercialização do produto; /(v)/ lei do Estado do dano e da comercialização do produto; /(vi)/ lei do Estado da residência habitual do agente; e /(vii)/ lei do Estado que, no caso concreto, tenha uma conexão manifestamente mais estreita com a situação do que os Estados designados em /(ii)/ a /(vi)/.
+
+Assinala-se que esta solução tem muito em comum com a consagrada para as obrigações extracontratuais em geral: a conexão primária é a mesma (art. 14.º) e o artigo 5.º só substitui a /lex damni/, consagrada no artigo 4.º, n.º 1, do Regulamento Roma II, uma vez que mantém o elemento de conexão residência habitual comum e a cláusula de exceção. A especificidade na determinação da lei aplicável à responsabilidade decorrente de produtos é a substituição da /lex damni/ por 3 conexões cumulativas sucessivas ou subsidiárias, sujeitas a uma cláusula de previsibilidade[fn:26].
+
+*questões gerais para escrever:* ambito de aplicação material (obrigação extracontratual e responsabilidade por produtos defeituosos), conceito de produto e de dano.
 
 * Conexão primária: autonomia privada
 * Conexão subsidiária especial
@@ -56,6 +64,11 @@ No essencial, a norma de conflitos especial em matéria de responsabilidade deco
 * Conclusões
 
 * Footnotes
+[fn:26] E, quando nenhuma destas conexões esteja preenchida ou se verifique a cláusula de previsibilidade, a aplicação da lei da residência habitual do agente.
+
+[fn:25] Artigo 5.º, n.º 1, segundo parágrafo. A aplicação analógica deste preceito aos casos de não comercialização do produto será desenvolvida /infra/.
+
+[fn:24] Artigo 4.º, n.º 2, aplicável por via da remissão constante do artigo 5.º, n.º 1, do Regulamento Roma II.
 
 [fn:23] Cf., neste sentido, a exposição de motivos da Proposta da Comissão Europeia, p. 15 e a Posição Comum do Conselho, p. 79.
 
