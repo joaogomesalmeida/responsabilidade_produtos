@@ -13,7 +13,7 @@ Inicia-se com um breve contexto histórico, onde se dará conta, em traços gera
 
 Antes do Regulamento Roma II, a Conferência da Haia aprovou a Convenção da Haia de 1973 sobre a Lei Aplicável à Responsabilidade Decorrente de Produtos[fn:17]. Esta Convenção entrou internacionalmente em vigor em 1 de outubro de 1977, mas não pode considerar-se um sucesso, uma vez que, em outubro de 2021, é aplicável apenas em 8 Estados Contratantes[fn:1]. A razão para um tão escasso número de Estados Contratantes parece encontrar-se na elevada complexidade da solução conflitual que adotou[Cf., por exemplo, @graziano2005, p. 480; @pinheiro2015, p. 489; contra, considerando duvidoso que uma regra simples consiga atender aos interesses envolvidos nesta matéria, cf. @fawcett1993, pp. 154-155]. Segundo a Convenção, a lei reguladora da responsabilidade decorrente de produtos é: /(i)/ a lei do Estado da residência habitual do lesado se esse Estado for também o do estabelecimento principal do alegado agente /ou/ o do lugar onde o produto foi adquirido pelo lesado (artigo 5.º); na falta desta, /(ii)/ a lei do Estado do lugar onde ocorreu o dano direto se esse Estado for também o da residência habitual do lesado, o do estabelecimento principal do alegado agente /ou/ o do lugar onde o produto foi adquirido pelo lesado (artigo 4.º); na falta desta, /(iii)/ a lei do Estado estabelecimento principal do alegado agente ou do lugar onde ocorreu o dano direto, consoante a escolha do lesado (artigo 6.º); contudo, /(iv)/ será aplicável a lei do Estado do estabelecimento principal do alegado agente se este demonstrar que não podia razoavelmente prever que o produto ou os seus produtos do mesmo tipo seriam disponibilizados nos Estados da residência habitual do lesado ou do lugar onde ocorreu o dano direto (artigo 7.º)[Cf. @reese1973, pp. 263-264.].
 
-Portugal iniciou, mas não concluiu, o processo de vinculação a esta Convenção. O Direito de Conflitos português de fonte interna não contém uma norma de conflitos especial em matéria de responsabilidade do produtor decorrente de danos causados por produtos. A lei aplicável à responsabilidade do produtor, quando revista natureza extracontratual, é determinada de acordo com as normas de conflitos gerais em matéria de responsabilidade extracontratual, previstas no artigo 45.º do Código Civil[Cf., sobre este preceito, @machado1995, pp. 367-377; @vicente2001, pp. *XX*; @pissarra2004, pp. 107 e ss.; @pires2009, pp. 113-117; @oliveira2011, pp. 350 e ss.; @fernandes2014, pp. 123-128; @pinheiro2015, pp. 500-501; @vicente2020, pp. 200-204.].
+Portugal iniciou, mas não concluiu, o processo de vinculação a esta Convenção. O Direito de Conflitos português de fonte interna não contém uma norma de conflitos especial em matéria de responsabilidade do produtor decorrente de danos causados por produtos. A lei aplicável à responsabilidade do produtor, quando revista natureza extracontratual, é determinada de acordo com as normas de conflitos gerais em matéria de responsabilidade extracontratual, previstas no artigo 45.º do Código Civil[Cf., sobre este preceito, @machado1995, pp. 367-377; @vicente2001, pp. *XX*; @pissarra2004, pp. 107 e ss.; @pires2009, pp. 113-117; @oliveira2011, pp. 350 e ss.; @fernandes2014c, pp. 123-128; @pinheiro2015, pp. 500-501; @brito2019, pp. 74-75; @vicente2020, pp. 200-204.].
 
 No artigo 45.º, n.º 1, do Código Civil consagrou-se a regra clássica em matéria de responsabilidade extracontratual: é aplicável a /lex loci delicti comissi/, i.é., a lei do Estado onde decorreu a principal atividade causadora do prejuízo ou, no caso da responsabilidade por omissão, a lei do Estado onde o responsável deveria ter agido. No caso da responsabilidade do produtor, nem sempre será fácil determinar onde decorreu a principal atividade causadora do prejuízo. Em muitos casos, o lugar onde foi fabricado o produto será aquele em que decorreu a principal atividade causadora do prejuízo[Cf., neste sentido, @silva1990, p. 142.]. Contudo, nos casos em que o produto é desenhado num Estado, produzido noutro e colocado no comércio num terceiro, parece que a resposta deve variar em função da natureza do defeito[@fawcett1993, 211.].
 
@@ -53,7 +53,11 @@ A solução conflitual, sumariamente descrita, consagra sete conexões diferente
 
 Assinala-se que esta solução tem muito em comum com a consagrada para as obrigações extracontratuais em geral: a conexão primária é a mesma (art. 14.º) e o artigo 5.º só substitui a /lex damni/, consagrada no artigo 4.º, n.º 1, do Regulamento Roma II, uma vez que mantém o elemento de conexão residência habitual comum e a cláusula de exceção. A especificidade na determinação da lei aplicável à responsabilidade decorrente de produtos é a substituição da /lex damni/ por 3 conexões cumulativas sucessivas ou subsidiárias, sujeitas a uma cláusula de previsibilidade[fn:26].
 
-*questões gerais para escrever:* ambito de aplicação material (obrigação extracontratual e responsabilidade por produtos defeituosos), conceito de produto e de dano.
+Antes de analisarmos concretamente cada uma das conexões consagradas nesta solução conflitual, cabe debruçarmo-nos sobre algumas questões de carácter mais geral. A primeira destas questões é relativa a natureza da obrigação do produtor. Esta solução, mercê do âmbito de aplicação em razão da matéria do Regulamento Roma II[fn:27], só é aplicável à responsabilidade /extracontratual/ do produtor. Eventuais pedidos indemnizatórios fundados em responsabilidade /contratual/ do produtor, no contexto de uma situação transnacional, são regulados pela lei designada aplicável nos termos do Regulamento Roma I[fn:28]. O conceito de obrigação extracontratual do Regulamento Roma II deve ser objeto de interpretação autónoma relativamente ao Direito dos Estados-Membros, de maneira a assegurar a harmonia jurídica internacional e a segurança jurídica. Em especial, o Tribunal de Justiça tem vincado que a interpretação dos atos comunitários deve ter em conta o contexto da disposição e o objetivo prosseguido pela regulamentação em causa[Cf., por exemplo, Acórdão do TJ de 17 de dezembro de 2002, /Tacconi/, C-334/00, EU:C:2002:499, considerando n.º 19, Acórdão do TJ de 20 de janeiro de 2005, /Engler/, C-27/02, EU:C:2005:33, considerando n.ºs 33 e 50, e Acórdão do TJ de 2 de abril de 2009, /A/, C-523/07, EU:C:2009:225, considerando n.º 34. Na doutrina portuguesa, cf., em geral, @pinheiro2014, pp. 460-461; @pinheiro2015, *XX*; @pinheiro2019c, *XX*; e, em sede do Regulamento Roma II, @oliveira2011, pp. 213 e ss.].
+
+
+
+*questões gerais para escrever:* ambito de aplicação material (obrigação extracontratual (quase feito) e responsabilidade por produtos defeituosos), conceito de produto e de dano.
 
 * Conexão primária: autonomia privada
 * Conexão subsidiária especial
@@ -64,6 +68,10 @@ Assinala-se que esta solução tem muito em comum com a consagrada para as obrig
 * Conclusões
 
 * Footnotes
+[fn:28] Regulamento (CE) n.º 593/2008 do Parlamento Europeu e do Conselho, de 17 de Junho de 2008, sobre a lei aplicável às obrigações contratuais (Roma I), publicado no JO L 177 de 4 de julho de 2008.
+
+[fn:27] Cf. artigo 1.º do Regulamento Roma II.
+
 [fn:26] E, quando nenhuma destas conexões esteja preenchida ou se verifique a cláusula de previsibilidade, a aplicação da lei da residência habitual do agente.
 
 [fn:25] Artigo 5.º, n.º 1, segundo parágrafo. A aplicação analógica deste preceito aos casos de não comercialização do produto será desenvolvida /infra/.
@@ -74,7 +82,7 @@ Assinala-se que esta solução tem muito em comum com a consagrada para as obrig
 
 [fn:22] Cf. considerando 20.º do Regulamento Roma II. Negritos aditados.
 
-[fn:21] Cf. Acórdão do Tribunal de Justiça de 17 de novembro de 2011, /Homawoo/, C-412/10, EU:C:2011:747, considerando 34.
+[fn:21] Cf. Acórdão do Tribunal de Justiça (doravante TJ) de 17 de novembro de 2011, /Homawoo/, C-412/10, EU:C:2011:747, considerando 34.
 
 [fn:20] Cf. considerando 16.º do Regulamento Roma II.
 
@@ -114,6 +122,6 @@ actividade poderia ser avaliada ao abrigo das normas em vigor neste país e o ar
 
 [fn:3] O Supremo Tribunal de Justiça caracterizou como ocasional "a estadia sem grande estabilidade e permanência, antes a título transitório e passageiro, ou seja, para durar por um período limitado, circunscrita à realização de um fim ou atividade pouco prolongada." (acórdão de 8 de novembro de 1979, /Boletim do Ministério da Justiça/, n.º 291, pp. 456 e ss.).
 
-[fn:2] Regulamento (CE) n.º 864/2007 do Parlamento Europeu e do Conselho, de 11 de Julho de 2007, relativo à lei aplicável às obrigações extracontratuais (Roma II), publicado no Jornal Oficial L 199, de 31 de julho de 2007.
+[fn:2] Regulamento (CE) n.º 864/2007 do Parlamento Europeu e do Conselho, de 11 de Julho de 2007, relativo à lei aplicável às obrigações extracontratuais (Roma II), publicado no Jornal Oficial (doravante JO) L 199, de 31 de julho de 2007.
 
 [fn:1] A saber, Croácia, Eslóvenia, Espanha, Finlândia, França, Macedónia do Norte, Montenegro, Países Baixos e Sérvia.
