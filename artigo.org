@@ -79,6 +79,11 @@ Apesar desta reserva, considera-se que a /professio iuris/ será pouco utilizada
 
 * Conexão subsidiária especial
 ** Residência habitual comum (art. 4.º/2)
+
+Na falta de escolha de lei, é aplicável a lei do Estado da residência habitual comum de agente e lesado (/lex domicillii communis/)[fn:46]. Esta norma de conflitos é muitas vezes entendida como inspirada[Cf., por exemplo, @pinheiro2015, p. 484.] na jurisprudência norte-americana /Babcock v. Jackson/[fn:47], em que o tribunal afastou a aplicação da /lex loci delictii commissi/ em favor da lei da residência habitual comum do agente e lesado, por considerar que a primeira tinha carácter fortuito e a segunda uma ligação mais significativa com o litígio. Assinala-se que, aquando da elaboração do Regulamento Roma II, alguns Estados-Membros consagravam no seu Direito Internacional Privado de fonte interna desvios semelhantes assentes na lei do Estado da residência habitual comum, na lei do Estado da nacionalidade comum ou na lei do Estado da residência habitual ou da nacionalidade comum[fn:48].
+
+A aplicação da lei do Estado da residência habitual de agente e lesado parece justificar-se em face da conexão especial que existe por via de estes estarem integrados na mesma comunidade jurídica[fn:49]. A aplicação da /lex domicilli communis/ pode também justificar-se por permitir uma redução dos custos de litigância e uma coincidência entre /forum/ e /ius/: residindo agente e lesado habitualmente no mesmo Estado, é provável que o litígio seja intentado no Estado em que ambos residam (e não no Estado em que foi praticado o facto lesivo ou ocorreu o dano) por ser nesse Estado que agente e lesado têm maior facilidade no acesso ao Direito. Nesses casos, a aplicação da /lex domicilli communis/ permite a aplicação que tribunal do foro aplique o seu próprio Direito material. Pode também, em muitos (mas não em todos os) casos, corresponder à legítima expetativa das partes[fn:50].
+
 ** Conexões cumulativas sucessivas ou subsidárias (art. 5.º/1)
 * A cláusula de exceção (art. 5.º/2)
 * A relevância de normas de aplicação imediata (art. 16.º)
@@ -87,6 +92,15 @@ Apesar desta reserva, considera-se que a /professio iuris/ será pouco utilizada
 Citar [@ramos2016e, p. 120], que considera o artigo 5.º "uma regra de conflitos particularmente complexa".
 
 * Footnotes
+[fn:50] Cf. Proposta da Comissão Europeia, p. 12. Concorda-se, no entanto, que nem sempre a expetativa das partes será a aplicação da lei da residência habitual comum. Imagine-se, por exemplo, uma colisao de veículos entre duas pessoas com residência habitual em França que se encontram de férias em Portugal. Se as pessoas vieram de férias juntas, podem legitimamente esperar que se aplique ao seu litígio a lei da sua residência habitual; caso contrário, se não existir qualquer relação entre elas anterior à colisão, dificilmente terão a expetativa de aplicação da /lex domicilli communis/. O que não significa que não haja outras razões (as avançadas no texto) para se  aplicar essa lei.
+
+[fn:49] Pode ler-se, no considerando n.º 18 do Regulamento Roma II, que "[...] O n.º 2 do artigo 4.º deverá ser visto como uma excepção a este princípio geral, criando uma conexão especial caso as partes tenham a sua residência habitual no mesmo país."
+
+[fn:48] Cf., por exemplo, o artigo 99.º, §1º., n.º 1, do Código Civil belga; o artigo 62.º, n.º 2, da Lei de 31 de maio de 1995, n.º 218, que reforma o sistema italiano de Direito Internacional Privado; o artigo 40.º, n.º 2, da Lei de introdução ao Código Civil Alemão; e o artigo 45.º, n.º 3, do Código Civil português.
+
+[fn:47] Babcock v. Jackson, 191 N.E.2d 279, 12 N.Y.2d 473 (N.Y. 1963).
+
+[fn:46] Cf. artigo 4.º, n.º 2, aplicável por remissão da parte inicial do artigo 5.º, n.º 1, do Regulamento Roma II.
 
 [fn:45] Cf. artigo 14.º, n.º 1, alínea /b)/ do Regulamento Roma II.
 
