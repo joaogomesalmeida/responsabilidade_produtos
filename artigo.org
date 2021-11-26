@@ -84,14 +84,42 @@ Na falta de escolha de lei, é aplicável a lei do Estado da residência habitua
 
 A aplicação da lei do Estado da residência habitual de agente e lesado parece justificar-se em face da conexão especial que existe por via de estes estarem integrados na mesma comunidade jurídica[fn:49]. A aplicação da /lex domicilli communis/ pode também justificar-se por permitir uma redução dos custos de litigância e uma coincidência entre /forum/ e /ius/: residindo agente e lesado habitualmente no mesmo Estado, é provável que o litígio seja intentado no Estado em que ambos residam (e não no Estado em que foi praticado o facto lesivo ou ocorreu o dano) por ser nesse Estado que agente e lesado têm maior facilidade no acesso ao Direito. Nesses casos, a aplicação da /lex domicilli communis/ permite a aplicação que tribunal do foro aplique o seu próprio Direito material. Pode também, em muitos (mas não em todos os) casos, corresponder à legítima expetativa das partes[fn:50].
 
-** Conexões cumulativas sucessivas ou subsidárias (art. 5.º/1)
-* A cláusula de exceção (art. 5.º/2)
+O conceito de residência habitual encontra-se apenas /parcialmente/ definido no artigo 23.º do Regulamento Roma II. Este preceito define que a residência habitual das pessoas coletivas e outra entidades sem personalidade jurídica é, em regra, o local onde se situa a respetiva administração central. Nos casos em que o facto que dá origem ao dano, ou o dano ocorra, no exercício da actividade de uma sucursal, agência ou outro estabelecimento, considera-se que a residência habitual corresponde ao local onde se situa a sucursal, agência ou outro estabelecimento. Estabelece igualmente que a residência habitual das pessoas singulares que atuam no exercício de uma atividade profissional se situa no local do seu estabelecimento principal.
+
+Porém, não se encontra definido o conceito de residência habitual das pessoas singulares que não atuam no exercício de uma atividade profissional. Este conceito deve, não obstante, ser interpretado autonomamente. Entende-se que é possível obter orientações para a definição deste conceito na jurisprudência do Tribunal de Justiça da União Europeia que se debruçou sobre o conceito no âmbito de outros instrumentos de Direito Internacional Privado da União Europeia, nomeadamente o Regulamento Bruxelas II /bis/[fn:51]. O conceito tem sido mais desenvolvido na jurisprudência do Tribunal de Justiça da União Euopeia no contexto da residência habitual do menor.
+
+Muito recentemente, o Tribunal de Justiça da União Europeia proferiu acórdão  no qual se debruça sobre o conceito de residência habitual dos cônjuges[fn:52]. Socorrendo-se da sua jurisprudência em matéria de residência habitual de menores, o Tribunal de Justiça reitera que a noção de residência habitual é essencialmente uma questão de facto, que se determina mediante a análise do conjunto de todas as circunstâncias do caso concreto[fn:53]. A residência habitual corresponde, por isso, ao local onde se situa o centro de vida do interessado e é, em princípio, caracterizada por dois elementos: a vontade do interessado fixar o seu centro de vida num determinado local e a duração, condições e regularidade da sua presença nesse determinado local, que deve dar nota de uma relação estreita e estável entre o interessado e esse local[fn:54]. Neste acórdão, o Tribunal de Justiça considerou que uma pessoa singular (o cônjuge) só pode ter, num determinado momento, uma residência habitual[fn:55].
+
+A residência habitual comum deve existir no momento em que ocorre o dano. Assinala-se que, nos casos de responsabilidade extracontratual por danos decorrentes de produtos defeituosos, a lei do Estado da residência habitual comum de agente e lesado é aplicável /mesmo/ que o produto, ou um produto do mesmo tipo, não tenha sido comercializado nesse Estado /ou/ que não fosse razoavelmente previsível ao agente a sua comercialização nesse Estado. Esta conclusão decorre da letra do preceito e da teleologia da conexão: o que parece fundar a aplicação da /lex domicilli communis/ é, essencialmente, a especial ligação decorrente dos sujeitos estarem integrados numa mesma comunidade jurídica. O que não significa que estes elementos não possam ter uma relevância indireta, por via da cláusula de exceção consagrada no artigo 5.º, n.º 2, do Regulamento Roma II[Cf., neste sentido, @calliess2015, pp. 548-549; e @magnus2019, p. 225.].
+
+** Conexões cumulativas sucessivas ou subsidárias
+
+Não tendo agente e lesado resdiência habitual comum, a lei reguladora é determinada por três conexões cumulativas sucessivas ou subsidiárias, a saber, a lei do Estado da residência habitual do lesado, da aquisição do produto ou da ocorrência do dano, desde que cada uma destas seja /simultaneamente/ a lei do Estado da comercialização do produto /e/ fosse razoavelmente previsível ao agente a comercialização do produto, ou de um produto do mesmo tipo, em cada um desses Estados.
+
+As três conexões cumulativas sucessivas ou subsidiárias estabelecem três elementos de conexão distintos (residência habitual do lesado lugar da aquisição do produto e lugar onde ocorreu o dano) e um elemento de conexão comum (lugar da comercialização).
+
+A especifidade do elemento de conexão residência habitual do lesado consiste na interpretação autónoma do conceito de residência habitual, que só é parcialmente definido no artigo 23.º do Regulamento Roma II. Remete-se para o que se escreveu /supra/ aquando da análise da /lex domicilli communis/.
+
+O elemento de conexão lugar da aquisição do produto refere-se, claramente, ao /concreto/ produto cujo defeito deu origem a um dano. O termo aquisição deve ser interpretado de modo a abranger aquisições onerosas ou gratuitas.
+
+** A cláusula de exceção (art. 5.º/2)
 * A relevância de normas de aplicação imediata (art. 16.º)
 * Conclusões
 
 Citar [@ramos2016e, p. 120], que considera o artigo 5.º "uma regra de conflitos particularmente complexa".
 
 * Footnotes
+
+[fn:55] Acórdão do TJ de 25 de novembro de 2021, /IB contra FA/, proc. C-289/20, EU:C:2021:955, cons. 62.
+
+[fn:54] Acórdão do TJ de 25 de novembro de 2021, /IB contra FA/, proc. C-289/20, EU:C:2021:955, cons. 57.
+
+[fn:53] Acórdão do TJ de 25 de novembro de 2021, /IB contra FA/, proc. C-289/20, EU:C:2021:955, cons. 52.
+
+[fn:52] Acórdão do TJ de 25 de novembro de 2021, /IB contra FA/, proc. C-289/20, EU:C:2021:955.
+
+[fn:51] Regulamento (CE) n.º 2201/2003 do Conselho, de 27 de Novembro de 2003, relativo à competência, ao reconhecimento e à execução de decisões em matéria matrimonial e em matéria de responsabilidade parental e que revoga o Regulamento (CE) n.º 1347/2000, publicado no JO L 338 de 23 de dezembro de 2003.
+
 [fn:50] Cf. Proposta da Comissão Europeia, p. 12. Concorda-se, no entanto, que nem sempre a expetativa das partes será a aplicação da lei da residência habitual comum. Imagine-se, por exemplo, uma colisao de veículos entre duas pessoas com residência habitual em França que se encontram de férias em Portugal. Se as pessoas vieram de férias juntas, podem legitimamente esperar que se aplique ao seu litígio a lei da sua residência habitual; caso contrário, se não existir qualquer relação entre elas anterior à colisão, dificilmente terão a expetativa de aplicação da /lex domicilli communis/. O que não significa que não haja outras razões (as avançadas no texto) para se  aplicar essa lei.
 
 [fn:49] Pode ler-se, no considerando n.º 18 do Regulamento Roma II, que "[...] O n.º 2 do artigo 4.º deverá ser visto como uma excepção a este princípio geral, criando uma conexão especial caso as partes tenham a sua residência habitual no mesmo país."
